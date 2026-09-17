@@ -1,0 +1,6 @@
+[
+  {
+    "scenario": "Look up an existing book by id",
+    "bookId": 1
+  }
+]

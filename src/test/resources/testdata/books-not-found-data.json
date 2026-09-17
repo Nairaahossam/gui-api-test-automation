@@ -1,0 +1,6 @@
+[
+  {
+    "scenario": "Look up a book id that does not exist",
+    "invalidBookId": 999999
+  }
+]

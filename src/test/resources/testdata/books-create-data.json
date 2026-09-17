@@ -1,0 +1,11 @@
+[
+  {
+    "scenario": "Create a book with valid data",
+    "id": 9001,
+    "title": "Senior QC Automation Assessment",
+    "description": "A book created by the API automation suite.",
+    "pageCount": 250,
+    "excerpt": "This excerpt was submitted by an automated test.",
+    "publishDate": "2026-01-01T00:00:00.000Z"
+  }
+]
