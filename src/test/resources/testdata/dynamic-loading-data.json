@@ -1,0 +1,7 @@
+[
+  {
+    "scenario": "Example 2 - element rendered after AJAX loading finishes",
+    "exampleNumber": "2",
+    "expectedText": "Hello World!"
+  }
+]
